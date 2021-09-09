@@ -1,0 +1,16 @@
+.brown{
+	color:brown;
+	font-weight: bold;
+}
+
+.alinea{
+	text-indent: 4.5%;
+}
+
+article {
+	background-color:rgb(250, 246, 229);
+}
+
+.centre{
+	text-align: center;
+}
