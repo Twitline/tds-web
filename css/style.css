@@ -10,6 +10,23 @@ footer{
 	bottom: 0;
 }
 
+header a {
+	color: white;
+	text-decoration: none;
+}
+
+.decolien {
+	border: solid;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	display: inline-block;
+	padding-top: 20px;
+	color: white;
+	border-color: white;
+	text-decoration: none;
+}
+
 nav {
 	display: flex;
 	justify-content: flex-end;
@@ -48,4 +65,15 @@ body{
 .column {
 	display: flex;
 	flex-direction: row;
+	align-items: flex-start;
+}
+
+aside{
+	margin-right: 200px;
+	margin-right: 200px;
+}
+
+.lienright {
+	background-color: rgb(110, 134, 240);
+	color: white;
 }
